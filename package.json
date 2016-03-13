@@ -1,0 +1,19 @@
+{
+  "name": "deranged-express-request-logger",
+  "version": "0.0.1",
+  "description": "Express request logging --- by deranged",
+  "main": "requestLogging.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derangeddk/express-request-logger.git"
+  },
+  "author": "Niels Abildgaard <me@hypesystem.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derangeddk/express-request-logger/issues"
+  },
+  "homepage": "https://github.com/derangeddk/express-request-logger#readme"
+}
